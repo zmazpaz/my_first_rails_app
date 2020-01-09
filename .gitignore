@@ -35,5 +35,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-# Random ignore just to test out git
+# Random ignore just to test out git.
 dummy_for_gitignore.txt
